@@ -1,0 +1,15 @@
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\bin\Debug\Joc_de_cartes.exe.config
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\bin\Debug\Joc_de_cartes.exe
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\bin\Debug\Joc_de_cartes.pdb
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\bin\Debug\Joc_de_cartes.xml
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.vbprojResolveAssemblyReference.cache
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Form1.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Form2.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Form3.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Form4.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Resources.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.vbproj.GenerateResource.Cache
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.exe
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.xml
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.pdb
+C:\Users\aprat\documents\visual studio 2015\Projects\Joc_de_cartes\Joc_de_cartes\obj\Debug\Joc_de_cartes.Form_stop.resources
